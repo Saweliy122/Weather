@@ -1,0 +1,60 @@
+{
+    "weeklyWeather": [
+        {
+            "date": "26.02.2026",
+            "dayOfWeek": "Monday",
+            "humidity": 85.0,
+            "pressure": 750.0,
+            "temperature": -5.0,
+            "windDirection": "Northern"
+        },
+        {
+            "date": "27.02.2026",
+            "dayOfWeek": "Tuesday",
+            "humidity": 78.0,
+            "pressure": 752.0,
+            "temperature": -3.0,
+            "windDirection": "Northeast"
+        },
+        {
+            "date": "28.02.2026",
+            "dayOfWeek": "Wednesday",
+            "humidity": 72.0,
+            "pressure": 755.0,
+            "temperature": -1.0,
+            "windDirection": "Eastern"
+        },
+        {
+            "date": "01.03.2026",
+            "dayOfWeek": "Thursday",
+            "humidity": 70.0,
+            "pressure": 753.0,
+            "temperature": 0.0,
+            "windDirection": "South-east"
+        },
+        {
+            "date": "02.03.2026",
+            "dayOfWeek": "Friday",
+            "humidity": 75.0,
+            "pressure": 751.0,
+            "temperature": 2.0,
+            "windDirection": "South"
+        },
+        {
+            "date": "03.03.2026",
+            "dayOfWeek": "Saturday",
+            "humidity": 80.0,
+            "pressure": 749.0,
+            "temperature": 1.0,
+            "windDirection": "Southwest"
+        },
+        {
+            "date": "04.03.2026",
+            "dayOfWeek": "Sunday",
+            "humidity": 82.0,
+            "pressure": 748.0,
+            "temperature": -0.0,
+            "windDirection": "Western"
+        }
+    ]
+}
